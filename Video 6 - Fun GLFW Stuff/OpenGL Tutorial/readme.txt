@@ -1,1 +1,1 @@
-https://www.lonesock.net/soil.html
+https://github.com/nothings/stb/blob/master/stb_image.h
